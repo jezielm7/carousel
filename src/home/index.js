@@ -72,8 +72,8 @@ const Home = () => {
                 width,
                 alignItems: 'center',
                 justifyContent: 'center',
-                shadowColor: '#0f0',
-                shadowOpacity: 2,
+                shadowColor: '#17202A',
+                shadowOpacity: 1,
                 shadowOffset: {
                   width: 0,
                   height: 0,
